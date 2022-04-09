@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188616234211",
+    "project_id": "econtest-41318",
+    "storage_bucket": "econtest-41318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188616234211:android:475a0f48d40f19fe7d61d6",
+        "android_client_info": {
+          "package_name": "com.example.econtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188616234211-mgn6lc73l9appie1hfqhguc2p6kkhspr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.econtest",
+            "certificate_hash": "30b27a180c16cb695545d4d027905947de632c09"
+          }
+        },
+        {
+          "client_id": "188616234211-62naqofjebandga78um5f0jjpojvbtft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrFaAM1Z36YowRpzRNwtcEXAtNPack-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188616234211-62naqofjebandga78um5f0jjpojvbtft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
